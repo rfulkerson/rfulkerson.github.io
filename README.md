@@ -1,3 +1,3 @@
 # Nothing to see here ...
 
-This site is (currently) mostly for hosting some images to be displayed in course resources that don't have local storage.
+This site is (currently) mostly for hosting some images to be displayed in course resources that don't have local storage. We don't want to link to the source images at the UNO website, so here we are.
